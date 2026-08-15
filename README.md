@@ -1,12 +1,14 @@
 # Meeting Interpreter
 
-**Real-time speech translation for Windows**
+**Real-time AI voice translation for Windows** 🎙️🌍
 
-Meeting Interpreter helps people communicate across languages during **online meetings** and **face-to-face conversations**. It is designed for real-time spoken communication with a clean desktop interface and flexible audio routing.
+Meeting Interpreter helps people communicate across languages during **online meetings** and **face-to-face conversations**. It focuses on natural spoken communication, clear audio routing, and translated voice playback rather than subtitles alone.
 
 > **Official download:** [Get Meeting Interpreter on Microsoft Store](YOUR_MICROSOFT_STORE_LINK_HERE)
 
 > **Website:** [meetinginterpreter.com](https://meetinginterpreter.com)
+
+> **Built for:** Windows 10/11 64-bit
 
 ---
 
@@ -23,6 +25,14 @@ It can be used during calls and meetings on platforms such as:
 - Browser-based calling platforms
 
 It also supports **in-person communication** with a dedicated **Face to Face** workflow.
+
+## Why It Stands Out
+
+- 🎤 **Natural AI voice output** for translated responses
+- ↔️ **Two-way live translation** for both sides of a conversation
+- 🧭 **Smart audio routing** for microphones, speakers, and virtual devices
+- 🏢 **Two conversation environments**: online meetings and face-to-face use
+- ⚡ **Real-time workflow** designed for live speech, not just text
 
 ---
 
@@ -55,6 +65,7 @@ Use face-to-face mode for in-person multilingual communication.
 ## Key Features
 
 - **Real-time speech translation** for live communication
+- **Natural AI voice playback** for translated speech
 - **Single Mode** for one-way interpretation
 - **Duplex Mode** for two-way conversations
 - **Face to Face Mode** for in-person communication
@@ -79,12 +90,34 @@ Reduce language barriers in distributed and international teams.
 ### Face-to-Face Conversations
 Enable in-person spoken communication between different language speakers.
 
+### Training and Demos
+Use it to show multilingual conversations in product demos, workshops, or onboarding sessions.
+
+---
+
+## How It Works
+
+From speech to translated voice in four steps:
+
+1. 🎧 **Listen** - capture speech from the selected microphone or meeting audio source
+2. 🧠 **Understand** - process words, language, and conversational context in real time
+3. 🌐 **Translate** - generate a natural target-language response
+4. 🔊 **Speak** - play the translation through the correct physical or virtual device
+
 ---
 
 ## Platform
 
 - **Operating System:** Windows
 - **Distribution:** Microsoft Store
+
+## Setup Notes
+
+Meeting Interpreter is designed to work smoothly with the app setup flow and the included voice-routing workflow.
+
+- Use the Microsoft Store or website installer to get started
+- Prepare your audio routing setup if you use virtual devices
+- Add your AI service key during first-time configuration
 
 ---
 
@@ -102,6 +135,7 @@ If you want to install the application, please use the official Microsoft Store 
 
 - **Microsoft Store:** `YOUR_MICROSOFT_STORE_LINK_HERE`
 - **Website:** [https://meetinginterpreter.com](https://meetinginterpreter.com)
+- **Tutorials:** [https://www.meetinginterpreter.com/](https://www.meetinginterpreter.com/)
 
 ---
 
@@ -117,3 +151,8 @@ If you want to add repository topics on GitHub, these are good starting options:
 
 **Blockroot Systems**
 
+---
+
+## Short Pitch
+
+Meeting Interpreter makes multilingual conversations feel natural by turning live speech into translated voice in real time. It is built for teams, meetings, and face-to-face communication. ✨

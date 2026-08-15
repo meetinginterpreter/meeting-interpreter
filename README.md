@@ -10,6 +10,8 @@ Meeting Interpreter helps people communicate across languages during **online me
 
 > **Built for:** Windows 10/11 64-bit
 
+> **Early access:** Currently open for users who want to try the latest build.
+
 > **Windows Release v1.1.0:** [Download the installer](https://github.com/meetinginterpreter/meeting-interpreter/releases/download/v1.1.0/MeetingInterpreter_v1.1_Setup.exe)
 
 ---

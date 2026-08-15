@@ -4,7 +4,7 @@
 
 Meeting Interpreter helps people communicate across languages during **online meetings** and **face-to-face conversations**. It focuses on natural spoken communication, clear audio routing, and translated voice playback rather than subtitles alone.
 
-> **Official download:** [Get Meeting Interpreter on Microsoft Store](YOUR_MICROSOFT_STORE_LINK_HERE)
+> **Official download:** [Get Meeting Interpreter on Microsoft Store](https://apps.microsoft.com/detail/9NKS36FFS2R6)
 
 > **Website:** [meetinginterpreter.com](https://meetinginterpreter.com)
 
@@ -135,7 +135,7 @@ If you want to install the application, please use the official Microsoft Store 
 
 ## Official Links
 
-- **Microsoft Store:** `YOUR_MICROSOFT_STORE_LINK_HERE`
+- **Microsoft Store:** [https://apps.microsoft.com/detail/9NKS36FFS2R6](https://apps.microsoft.com/detail/9NKS36FFS2R6)
 - **Website:** [https://meetinginterpreter.com](https://meetinginterpreter.com)
 - **Tutorials:** [https://www.meetinginterpreter.com/](https://www.meetinginterpreter.com/)
 

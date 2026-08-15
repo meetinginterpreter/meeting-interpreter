@@ -4,7 +4,7 @@
 
 Meeting Interpreter helps people communicate across languages during **online meetings** and **face-to-face conversations**. It focuses on natural spoken communication, clear audio routing, and translated voice playback rather than subtitles alone.
 
-> **Official download:** [Get Meeting Interpreter on Microsoft Store](https://apps.microsoft.com/detail/9NKS36FFS2R6) (sertifikasyon aşamasında)
+> **Official download:** [Get Meeting Interpreter on Microsoft Store](https://apps.microsoft.com/detail/9NKS36FFS2R6) (under certification)
 
 > **Website:** [meetinginterpreter.com](https://meetinginterpreter.com)
 
@@ -120,6 +120,15 @@ Meeting Interpreter is designed to work smoothly with the app setup flow and the
 - Use the Microsoft Store or website installer to get started
 - Prepare your audio routing setup if you use virtual devices
 - Add your AI service key during first-time configuration
+
+## Certification Status
+
+![Certification status for Meeting Interpreter](assets/certification-status.png)
+
+- Submission ✅
+- Pre-processing ✅
+- Certification ⏳
+- Publishing ⬜
 
 ---
 

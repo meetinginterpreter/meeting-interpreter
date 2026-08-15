@@ -149,6 +149,7 @@ If you want to install the application, please use the official Microsoft Store 
 - **Microsoft Store:** [https://apps.microsoft.com/detail/9NKS36FFS2R6](https://apps.microsoft.com/detail/9NKS36FFS2R6)
 - **Website:** [https://meetinginterpreter.com](https://meetinginterpreter.com)
 - **Tutorials:** [https://meetinginterpreter.com/#tutorials](https://meetinginterpreter.com/#tutorials)
+- **Docs:** [https://meetinginterpreter.com/docs.html](https://meetinginterpreter.com/docs.html)
 
 ---
 

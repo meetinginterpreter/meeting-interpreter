@@ -12,7 +12,7 @@ Meeting Interpreter helps people communicate across languages during **online me
 
 > **Early access:** Currently open for users who want to try the latest build.
 
-> **Windows Release v1.1.0:** [Download the installer](https://github.com/meetinginterpreter/meeting-interpreter/releases/download/v1.1.2/MeetingInterpreter_v1.1.2_Setup.exe)
+> **Windows Release v1.1.2:** [Download the installer](https://github.com/meetinginterpreter/meeting-interpreter/releases/download/v1.1.2/MeetingInterpreter_v1.1.2_Setup.exe)
 
 ---
 

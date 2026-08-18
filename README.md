@@ -123,15 +123,6 @@ Meeting Interpreter is designed to work smoothly with the app setup flow and the
 - Prepare your audio routing setup if you use virtual devices
 - Add your AI service key during first-time configuration
 
-## Certification Status
-
-![Certification status for Meeting Interpreter](assets/certification-status.png)
-
-- Submission ✅
-- Pre-processing ✅
-- Certification ✅
-- Publishing ✅
-
 ---
 
 ## Important Note

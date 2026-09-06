@@ -68,13 +68,13 @@ Use face-to-face mode for in-person multilingual communication.
 
 Use the Normal Dictation, Translation Dictation, and selected field translation features.
 
-![Meeting Interpreter Tools ](assets/05-tools.jpg)
+![Meeting Interpreter Tools ](assets/05-Tools.jpg)
 
 ### Help
 
 Use the "How to use" window.
 
-![Meeting Interpreter Help ](assets/06-help.jpg)
+![Meeting Interpreter Help ](assets/06-Help.jpg)
 
 ---
 

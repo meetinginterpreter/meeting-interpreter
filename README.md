@@ -64,6 +64,18 @@ Use face-to-face mode for in-person multilingual communication.
 
 ![Meeting Interpreter Face to Face Mode](assets/04-face-to-face-mode.jpg)
 
+### Tools
+
+Use the Normal Dictation, Translation Dictation, and selected field translation features.
+
+![Meeting Interpreter Tools ](assets/05-tools.jpg)
+
+### Help
+
+Use the "How to use" window.
+
+![Meeting Interpreter Help ](assets/06-help.jpg)
+
 ---
 
 ## Key Features

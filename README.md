@@ -44,37 +44,37 @@ It also supports **in-person communication** with a dedicated **Face to Face** w
 
 ### Welcome Screen
 
-![Meeting Interpreter Welcome Screen](assets/01-welcome-screen.jpg)
+![Meeting Interpreter Welcome Screen](assets/01-welcome-screen.png)
 
-### Single Mode
+### One-Way Mode
 
 Use one-way interpretation when you want to translate from one speaker to another direction.
 
-![Meeting Interpreter Single Mode](assets/02-single-mode.jpg)
+![Meeting Interpreter One-Way Mode](assets/02-one-way-mode.png)
 
 ### Duplex Mode
 
 Use duplex mode for natural two-way conversations with separate routing for both directions.
 
-![Meeting Interpreter Duplex Mode](assets/03-duplex-mode.jpg)
+![Meeting Interpreter Duplex Mode](assets/03-duplex-mode.png)
 
 ### Face to Face Mode
 
 Use face-to-face mode for in-person multilingual communication.
 
-![Meeting Interpreter Face to Face Mode](assets/04-face-to-face-mode.jpg)
+![Meeting Interpreter Face to Face Mode](assets/04-face-to-face-mode.png)
 
 ### Tools
 
 Use the Normal Dictation, Translation Dictation, and selected field translation features.
 
-![Meeting Interpreter Tools ](assets/05-Tools.jpg)
+![Meeting Interpreter Tools ](assets/05-tools.png)
 
 ### Help
 
-Use the "How to use" window.
+Use the in-app guide for selected-text translation and the translation balloon.
 
-![Meeting Interpreter Help ](assets/06-Help.jpg)
+![Meeting Interpreter Help ](assets/06-help.png)
 
 ---
 
@@ -82,7 +82,7 @@ Use the "How to use" window.
 
 - **Real-time speech translation** for live communication
 - **Natural AI voice playback** for translated speech
-- **Single Mode** for one-way interpretation
+- **One-Way Mode** for one-way interpretation
 - **Duplex Mode** for two-way conversations
 - **Face to Face Mode** for in-person communication
 - **Flexible audio routing** for microphones, speakers, and virtual audio devices
